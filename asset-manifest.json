@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fathima-haneena/react-tic-tac-toe.git/static/css/main.86400038.css",
+    "main.js": "/fathima-haneena/react-tic-tac-toe.git/static/js/main.2ed28522.js",
+    "static/js/453.70f66972.chunk.js": "/fathima-haneena/react-tic-tac-toe.git/static/js/453.70f66972.chunk.js",
+    "index.html": "/fathima-haneena/react-tic-tac-toe.git/index.html",
+    "main.86400038.css.map": "/fathima-haneena/react-tic-tac-toe.git/static/css/main.86400038.css.map",
+    "main.2ed28522.js.map": "/fathima-haneena/react-tic-tac-toe.git/static/js/main.2ed28522.js.map",
+    "453.70f66972.chunk.js.map": "/fathima-haneena/react-tic-tac-toe.git/static/js/453.70f66972.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86400038.css",
+    "static/js/main.2ed28522.js"
+  ]
+}
